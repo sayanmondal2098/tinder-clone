@@ -1,33 +1,33 @@
 import React from 'react';
 import Chat from "./Chat";
-import "./Chats.css";
+// import "./Chats.css";
 
 
 function Chats() {
     return (
         <div className="chats">
             <Chat
-                name="Sysant"
+                name="Susant"
                 message="Yoo "
-                timesstamp="40 sec ago"
+                timestamp="40 sec ago"
                 profilePic="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/pjimage-13-1592141699.jpg"
             />
             <Chat
-                name="Sysant"
+                name="Susant"
                 message="Yoo "
-                timesstamp="40 sec ago"
+                timestamp="40 sec ago"
                 profilePic="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/pjimage-13-1592141699.jpg"
             />
             <Chat
-                name="Sysant"
+                name="Susant"
                 message="Yoo "
-                timesstamp="40 sec ago"
+                timestamp="40 sec ago"
                 profilePic="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/pjimage-13-1592141699.jpg"
             />
             <Chat
-                name="Sysant"
+                name="Susant"
                 message="Yoo "
-                timesstamp="40 sec ago"
+                timestamp="40 sec ago"
                 profilePic="https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/06/pjimage-13-1592141699.jpg"
             />
         </div>
