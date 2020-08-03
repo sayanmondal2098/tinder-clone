@@ -1,0 +1,38 @@
+.SwapButtons {
+    position: fixed;
+    bottom:  10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.SwapButtons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.SwapButtons_repeat{
+    padding: 3vw !important;
+    color: #f5b748 !important;
+}
+
+.SwapButtons_left {
+    padding: 3vw !important;
+    color: #ec5e6f !important;
+}
+
+.SwapButtons_start{
+    padding: 3vw !important;
+    color: #62b4f9 !important;
+}
+
+.SwapButtons_right{
+    padding: 3vw !important;
+    color: #76e2b3 !important;
+}
+
+.SwapButtons_lightning{
+    padding: 3vw !important;
+    color: #915dd1 !important;
+}
